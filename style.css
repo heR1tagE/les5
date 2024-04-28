@@ -15,3 +15,10 @@ div, span { color: pink; }
 div.blue.large { color: black; } 
 div#yellow[data-type='special'] { color: rgb(121, 121, 58); } 
     
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #444;
+}
